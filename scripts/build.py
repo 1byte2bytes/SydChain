@@ -19,5 +19,5 @@ import build_dmd
 import build_llvm
 
 # i686 toolchain
-import build_i686_binutils
-import build_i686_gcc
+#import build_i686_binutils
+#import build_i686_gcc
